@@ -1,0 +1,12 @@
+# Ignore all Excel and CSV data files
+uploads/**/*.xlsx
+uploads/**/*.csv
+
+# Ignore all model, metrics, and result files
+uploads/**/*.pkl
+uploads/**/*.pdf
+uploads/**/*.txt
+uploads/**/*.html
+
+# Ignore all images and plots
+uploads/**/*.png
